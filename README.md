@@ -1,12 +1,12 @@
-# Amit Kumar 👋
+# Amit Kumar 
 
-## 🚀 Azure Cloud Engineer (Aspiring)
+## Azure Cloud Engineer (Aspiring)
 
 IT Infrastructure & Network Engineer with 2.5+ years of experience, now focused on Microsoft Azure.
 
 ---
 
-## 💻 Skills
+## Skills
 - Microsoft Azure (VM, VNet, NSG, Storage)
 - Linux (Ubuntu)
 - Networking (DNS, VPN, TCP/IP)
@@ -15,13 +15,13 @@ IT Infrastructure & Network Engineer with 2.5+ years of experience, now focused 
 
 ---
 
-## 🔥 Projects
+## Projects
 
 ### 1. Azure Web Application Deployment
 - Deployed PHP app on Azure VM
 - Configured Apache & PHP
 - Setup NSG & Public IP
-🔗 Live: http://4.213.35.81  
+Live: http://4.213.35.81  
 
 ---
 
@@ -46,5 +46,5 @@ IT Infrastructure & Network Engineer with 2.5+ years of experience, now focused 
 
 ---
 
-## 📫 Connect
+## Connect
 - LinkedIn: https://www.linkedin.com/in/amit-kumar-657255232/
