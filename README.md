@@ -1,50 +1,59 @@
-# Amit Kumar 
+# Amit Kumar
 
 ## Azure Cloud Engineer (Aspiring)
 
-IT Infrastructure & Network Engineer with 2.5+ years of experience, now focused on Microsoft Azure.
+IT Infrastructure & Network Engineer with 2.5+ years of experience in system administration and network operations. Currently focused on building hands-on expertise in Microsoft Azure by implementing real-world cloud projects.
 
 ---
 
-## Skills
-- Microsoft Azure (VM, VNet, NSG, Storage)
-- Linux (Ubuntu)
-- Networking (DNS, VPN, TCP/IP)
-- Nginx / Apache
-- Git & GitHub
+## Technical Skills
+
+* **Microsoft Azure:** Virtual Machines, Virtual Network (VNet), Network Security Groups (NSG), Storage
+* **Operating Systems:** Linux (Ubuntu)
+* **Networking:** TCP/IP, DNS, VPN
+* **Web Servers:** Nginx, Apache
+* **Tools:** Git & GitHub
 
 ---
 
 ## Projects
 
-### 1. Azure Web Application Deployment
-- Deployed PHP app on Azure VM
-- Configured Apache & PHP
-- Setup NSG & Public IP
-Live: http://4.213.35.81  
+### **Azure Web Application Deployment**
+
+* Deployed a PHP-based web application on Azure Virtual Machine
+* Configured Apache and PHP environment for application hosting
+* Implemented Network Security Groups (NSG) and Public IP for secure access
+* Validated deployment and ensured application accessibility
+
+**Live Demo:** http://4.213.35.81
 
 ---
 
-### 2. Azure Networking (VNet & NSG)
-- Created VNet with subnets
-- Configured NSG rules
-- Tested secure connectivity
+### **Azure Networking (VNet & NSG)**
+
+* Designed and configured Virtual Network (VNet) with multiple subnets
+* Implemented NSG rules for inbound and outbound traffic control
+* Tested and validated secure communication between resources
 
 ---
 
-### 3. Azure Storage (Blob)
-- Created storage account
-- Uploaded & managed data
-- Tested access & security
+### **Azure Storage (Blob)**
+
+* Created and configured Azure Storage Account with Blob Storage
+* Managed data upload, access, and basic security configurations
+* Verified storage accessibility and data retrieval
 
 ---
 
-### 4. Azure Virtual Machine Deployment
-- Created VM on Azure
-- Configured OS & networking
-- Managed remote access
+### **Azure Virtual Machine Deployment**
+
+* Provisioned and configured Virtual Machine on Microsoft Azure
+* Set up operating system and networking components
+* Enabled remote access and performed system configuration
 
 ---
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/amit-kumar-657255232/
+
+* LinkedIn: https://www.linkedin.com/in/amit-kumar-657255232/
+
