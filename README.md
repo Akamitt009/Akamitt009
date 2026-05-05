@@ -2,7 +2,7 @@
 
 ## Azure Cloud Engineer (Aspiring)
 
-IT Infrastructure & Network Engineer with 2.5+ years of experience in system administration and network operations. Currently focused on building hands-on expertise in Microsoft Azure by implementing real-world cloud projects.
+IT Infrastructure & Network Engineer with 2.5+ years of experience in enterprise environments, currently focused on building hands-on expertise in Microsoft Azure.
 
 ---
 
