@@ -29,6 +29,15 @@ IT Infrastructure & Network Engineer with 2.5+ years of experience in enterprise
 
 ---
 
+### **Azure Docker CI/CD Pipeline with Jenkins Auto Deployment
+
+*This project demonstrates a complete CI/CD pipeline implementation using Azure Linux VM, Docker, Jenkins, GitHub Webhooks, and Nginx for automated deployment.
+
+*The objective was to simulate a real-world client requirement where every code push to GitHub automatically triggers a Jenkins pipeline that rebuilds and redeploys the application inside a Docker container without manual intervention.
+
+**Live Demo:** http://20.244.114.96:8081/
+
+
 ### **Azure Networking (VNet & NSG)**
 
 * Designed and configured Virtual Network (VNet) with multiple subnets
