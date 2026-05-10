@@ -1,68 +1,160 @@
 # Amit Kumar
 
-## Azure Cloud Engineer (Aspiring)
+## Azure Administrator | IT Infrastructure & Network Support Engineer
 
-IT Infrastructure & Network Engineer with 2.5+ years of experience in enterprise environments, currently focused on building hands-on expertise in Microsoft Azure.
+IT Infrastructure & Network Support Engineer with 2.5+ years of experience in enterprise IT environments and hands-on expertise in Microsoft Azure, Networking, Windows Server, Linux, and Cloud Infrastructure deployments.
 
----
-
-## Technical Skills
-
-* **Microsoft Azure:** Virtual Machines, Virtual Network (VNet), Network Security Groups (NSG), Storage
-* **Operating Systems:** Linux (Ubuntu)
-* **Networking:** TCP/IP, DNS, VPN
-* **Web Servers:** Nginx, Apache
-* **Tools:** Git & GitHub
+Experienced in infrastructure troubleshooting, Active Directory management, VPN connectivity, LAN/WAN support, and Azure cloud administration with a strong focus on secure and scalable cloud environments.
 
 ---
 
-## Projects
+# Technical Skills
 
-### **Azure Web Application Deployment**
+## Cloud & Infrastructure
 
-* Deployed a PHP-based web application on Azure Virtual Machine
-* Configured Apache and PHP environment for application hosting
-* Implemented Network Security Groups (NSG) and Public IP for secure access
-* Validated deployment and ensured application accessibility
+* Microsoft Azure
+* Azure Virtual Machines (VM)
+* Azure Virtual Network (VNet)
+* Network Security Groups (NSG)
+* Azure Storage & Blob Storage
 
-**Live Demo:** http://4.213.35.81
+## Operating Systems
+
+* Windows Server
+* Linux (Ubuntu)
+
+## Networking
+
+* TCP/IP
+* DNS
+* DHCP
+* VPN
+* LAN/WAN
+* Subnetting
+
+## Web & DevOps
+
+* Apache
+* Nginx
+* Git & GitHub
+* CI/CD Basics
+* Docker
+* Jenkins
+
+## Identity & Security
+
+* Active Directory
+* IAM & RBAC
+* Firewall Monitoring
+
+---
+
+# Projects
+
+## Azure Web Application Deployment
+
+### Project Overview
+
+Deployed and hosted a PHP-based web application on Microsoft Azure using Ubuntu Linux Virtual Machine with secure networking and web server configuration.
+
+### Technologies Used
+
+* Azure VM
+* Ubuntu Linux
+* Apache
+* PHP
+* NSG
+* Public IP
+
+### Key Tasks
+
+* Provisioned Azure Virtual Machine
+* Installed Apache and PHP environment
+* Configured NSG inbound security rules
+* Enabled secure external access using Public IP
+* Validated deployment and application accessibility
+
+### Live Demo
+
+http://4.213.35.81
 
 ---
 
 ## Azure Docker CI/CD Pipeline with Jenkins Auto Deployment
 
-*This project demonstrates a complete CI/CD pipeline implementation using Azure Linux VM, Docker, Jenkins, GitHub Webhooks, and Nginx for automated deployment.
+### Project Overview
 
-*The objective was to simulate a real-world client requirement where every code push to GitHub automatically triggers a Jenkins pipeline that rebuilds and redeploys the application inside a Docker container without manual intervention.
+Implemented an end-to-end CI/CD automation pipeline using Azure Linux VM, Docker, Jenkins, GitHub Webhooks, and Nginx for automated application deployment.
 
-**Live Demo:** http://20.244.114.96:8081/
+### Technologies Used
 
+* Azure Linux VM
+* Jenkins
+* Docker
+* GitHub Webhooks
+* Nginx
 
-### **Azure Networking (VNet & NSG)**
+### Key Tasks
 
-* Designed and configured Virtual Network (VNet) with multiple subnets
-* Implemented NSG rules for inbound and outbound traffic control
-* Tested and validated secure communication between resources
+* Configured Jenkins automation server
+* Integrated GitHub Webhooks with Jenkins pipeline
+* Automated Docker container build and deployment
+* Implemented automatic application redeployment after every GitHub push
+* Simulated real-world automated deployment workflow
 
----
+### Live Demo
 
-### **Azure Storage (Blob)**
-
-* Created and configured Azure Storage Account with Blob Storage
-* Managed data upload, access, and basic security configurations
-* Verified storage accessibility and data retrieval
-
----
-
-### **Azure Virtual Machine Deployment**
-
-* Provisioned and configured Virtual Machine on Microsoft Azure
-* Set up operating system and networking components
-* Enabled remote access and performed system configuration
+http://20.244.114.96:8081/
 
 ---
 
-## Connect
+## Azure Networking (VNet & NSG)
 
-* LinkedIn: https://www.linkedin.com/in/amit-kumar-657255232/
+### Project Overview
 
+Designed and configured secure Azure Virtual Network infrastructure with subnet segmentation and traffic filtering using Network Security Groups.
+
+### Key Tasks
+
+* Created Virtual Networks and Subnets
+* Configured inbound and outbound NSG security rules
+* Tested secure communication between Azure resources
+* Validated network traffic isolation and accessibility
+
+---
+
+## Azure Storage (Blob Storage)
+
+### Project Overview
+
+Implemented Azure Storage Account with Blob Storage for secure cloud-based file management and storage operations.
+
+### Key Tasks
+
+* Created Azure Storage Account
+* Configured Blob Containers
+* Managed file upload and retrieval
+* Implemented access and security configurations
+* Validated storage accessibility
+
+---
+
+## Azure Virtual Machine Deployment
+
+### Project Overview
+
+Provisioned and configured Microsoft Azure Virtual Machines with networking, remote access, and operating system setup.
+
+### Key Tasks
+
+* Deployed Virtual Machines on Azure
+* Configured operating system and networking
+* Enabled remote connectivity
+* Performed system configuration and validation
+
+---
+
+# Connect
+
+* LinkedIn: [www.linkedin.com/in/amit-kumar-657255232/](http://www.linkedin.com/in/amit-kumar-657255232/)
+* GitHub: github.com/Akamitt009
