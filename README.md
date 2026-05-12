@@ -1,160 +1,167 @@
 # Amit Kumar
 
-## Azure Administrator | IT Infrastructure & Network Support Engineer
+### Azure Cloud & Infrastructure Engineer
 
-IT Infrastructure & Network Support Engineer with 2.5+ years of experience in enterprise IT environments and hands-on expertise in Microsoft Azure, Networking, Windows Server, Linux, and Cloud Infrastructure deployments.
+Cloud & Infrastructure Engineer with hands-on experience in Microsoft Azure, Linux Administration, Networking, High Availability Architecture, Monitoring, Backup & Disaster Recovery, and CI/CD automation.
 
-Experienced in infrastructure troubleshooting, Active Directory management, VPN connectivity, LAN/WAN support, and Azure cloud administration with a strong focus on secure and scalable cloud environments.
+Focused on building production-style cloud infrastructure projects using Azure services with practical implementation of load balancing, monitoring, failover handling, secure networking, and deployment automation.
 
 ---
 
 # Technical Skills
 
-## Cloud & Infrastructure
-
-* Microsoft Azure
-* Azure Virtual Machines (VM)
-* Azure Virtual Network (VNet)
-* Network Security Groups (NSG)
-* Azure Storage & Blob Storage
-
-## Operating Systems
-
-* Windows Server
-* Linux (Ubuntu)
-
-## Networking
-
-* TCP/IP
-* DNS
-* DHCP
-* VPN
-* LAN/WAN
-* Subnetting
-
-## Web & DevOps
-
-* Apache
-* Nginx
-* Git & GitHub
-* CI/CD Basics
-* Docker
-* Jenkins
-
-## Identity & Security
-
-* Active Directory
-* IAM & RBAC
-* Firewall Monitoring
+| Category | Technologies |
+|---|---|
+| Cloud Platform | Microsoft Azure |
+| Compute | Azure Virtual Machines, Azure Compute Gallery |
+| Networking | Azure VNet, NSG, TCP/IP, DNS, DHCP, VPN, LAN/WAN |
+| Load Balancing | Azure Load Balancer, Health Probes, Backend Pools |
+| Monitoring | Azure Monitor, VM Metrics |
+| Backup & DR | Recovery Services Vault, Azure Backup |
+| Operating Systems | Ubuntu Linux, Windows Server |
+| Web Servers | Apache, Nginx |
+| DevOps & Automation | Git, GitHub, GitHub Actions, Jenkins, Docker |
+| Security | IAM, RBAC, Active Directory |
+| Scripting | PowerShell, Bash |
 
 ---
 
-# Projects
+# Featured Azure Projects
 
-## Azure Web Application Deployment
+## Azure Load Balancer & High Availability Infrastructure
 
-### Project Overview
+Implemented a production-style High Availability architecture using Azure Standard Load Balancer, Linux Virtual Machines, Backend Pools, and Health Probes.
 
-Deployed and hosted a PHP-based web application on Microsoft Azure using Ubuntu Linux Virtual Machine with secure networking and web server configuration.
+### Key Highlights
+- Configured Azure Standard Load Balancer
+- Created reusable VM images using Azure Compute Gallery
+- Implemented backend pools and health probes
+- Performed live failover testing
+- Simulated traffic distribution using PowerShell
+- Validated backend traffic using Azure Monitor
 
 ### Technologies Used
+Azure Load Balancer • Linux VM • Apache • PHP • Azure Networking • Health Probes • Backend Pool
 
-* Azure VM
-* Ubuntu Linux
-* Apache
-* PHP
-* NSG
-* Public IP
-
-### Key Tasks
-
-* Provisioned Azure Virtual Machine
-* Installed Apache and PHP environment
-* Configured NSG inbound security rules
-* Enabled secure external access using Public IP
-* Validated deployment and application accessibility
-
-### Live Demo
-
-http://4.213.35.81
+🔗 Repository  
+https://github.com/Akamitt009/azure-load-balancer-high-availability
 
 ---
 
-## Azure Docker CI/CD Pipeline with Jenkins Auto Deployment
+## Azure Backup & Disaster Recovery Platform
 
-### Project Overview
+Designed and implemented a secure Azure Backup & Disaster Recovery solution using Recovery Services Vault and Azure Backup policies.
 
-Implemented an end-to-end CI/CD automation pipeline using Azure Linux VM, Docker, Jenkins, GitHub Webhooks, and Nginx for automated application deployment.
+### Key Highlights
+- Configured Azure Recovery Services Vault
+- Created backup policies and recovery points
+- Performed file recovery validation
+- Implemented backup protection workflows
+- Simulated disaster recovery scenarios
 
 ### Technologies Used
+Azure Backup • Recovery Services Vault • Windows Server • Azure VM • IIS
 
-* Azure Linux VM
-* Jenkins
-* Docker
-* GitHub Webhooks
-* Nginx
-
-### Key Tasks
-
-* Configured Jenkins automation server
-* Integrated GitHub Webhooks with Jenkins pipeline
-* Automated Docker container build and deployment
-* Implemented automatic application redeployment after every GitHub push
-* Simulated real-world automated deployment workflow
-
-### Live Demo
-
-http://20.244.114.96:8081/
+🔗 Repository  
+https://github.com/Akamitt009/azure-backup-recovery-services-vault
 
 ---
 
-## Azure Networking (VNet & NSG)
+## Azure CI/CD Pipeline with Jenkins & Docker
 
-### Project Overview
+Built an end-to-end automated deployment pipeline using Azure Linux VM, Jenkins, Docker, GitHub Webhooks, and Nginx.
 
-Designed and configured secure Azure Virtual Network infrastructure with subnet segmentation and traffic filtering using Network Security Groups.
+### Key Highlights
+- Configured Jenkins automation server
+- Integrated GitHub Webhooks
+- Automated Docker image deployment
+- Implemented continuous deployment workflow
+- Simulated production-style CI/CD pipeline
 
-### Key Tasks
+### Technologies Used
+Jenkins • Docker • GitHub Actions • Nginx • Azure Linux VM
 
-* Created Virtual Networks and Subnets
-* Configured inbound and outbound NSG security rules
-* Tested secure communication between Azure resources
-* Validated network traffic isolation and accessibility
+🔗 Repository  
+https://github.com/Akamitt009/azure-cicd-project
 
 ---
 
-## Azure Storage (Blob Storage)
+## Production Azure Monitoring Platform
 
-### Project Overview
+Implemented infrastructure monitoring and observability using Azure Monitor and VM metrics.
 
-Implemented Azure Storage Account with Blob Storage for secure cloud-based file management and storage operations.
+### Key Highlights
+- Configured Azure Monitor
+- Validated infrastructure metrics
+- Monitored CPU and network traffic
+- Tested infrastructure observability
+- Analyzed monitoring behavior during load testing
 
-### Key Tasks
+### Technologies Used
+Azure Monitor • VM Metrics • Azure VM • Monitoring & Diagnostics
 
-* Created Azure Storage Account
-* Configured Blob Containers
-* Managed file upload and retrieval
-* Implemented access and security configurations
-* Validated storage accessibility
+🔗 Repository  
+https://github.com/Akamitt009/production-azure-monitoring-platform
+
+---
+
+## Azure PHP Web Application Deployment
+
+Hosted and configured a PHP web application on Azure Linux Virtual Machine using Apache web server and secure networking.
+
+### Key Highlights
+- Configured Linux web server environment
+- Installed Apache & PHP
+- Configured NSG security rules
+- Enabled public access securely
+- Validated live application hosting
+
+### Technologies Used
+Apache • PHP • Linux VM • Azure Networking • NSG
+
+🔗 Repository  
+https://github.com/Akamitt009/azure-php-web-deployment
 
 ---
 
 ## Azure Virtual Machine Deployment
 
-### Project Overview
+Provisioned and configured Azure Virtual Machines with secure networking and remote administration.
 
-Provisioned and configured Microsoft Azure Virtual Machines with networking, remote access, and operating system setup.
+### Key Highlights
+- Deployed Azure Linux Virtual Machines
+- Configured networking and NSG
+- Enabled remote connectivity
+- Performed infrastructure validation
+- Tested VM accessibility and communication
 
-### Key Tasks
+### Technologies Used
+Azure VM • VNet • NSG • Ubuntu Linux
 
-* Deployed Virtual Machines on Azure
-* Configured operating system and networking
-* Enabled remote connectivity
-* Performed system configuration and validation
+🔗 Repository  
+https://github.com/Akamitt009/azure-vm-deployment
 
 ---
 
-# Connect
+# Core Areas of Interest
 
-* LinkedIn: [www.linkedin.com/in/amit-kumar-657255232/](http://www.linkedin.com/in/amit-kumar-657255232/)
-* GitHub: github.com/Akamitt009
+- Cloud Infrastructure
+- High Availability Architecture
+- Azure Networking
+- Infrastructure Monitoring
+- Backup & Disaster Recovery
+- CI/CD Automation
+- Infrastructure Security
+- Cloud Operations
+- Linux Administration
+- Scalable Web Hosting
+
+---
+
+# Connect With Me
+
+### GitHub
+https://github.com/Akamitt009
+
+### LinkedIn
+https://www.linkedin.com/in/amit-kumar-657255232/
